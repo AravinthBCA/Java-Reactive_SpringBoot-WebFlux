@@ -74,8 +74,6 @@
 
 	<packaging>pom</packaging>
 	<modules>
-		<module>
-			../../../../../git/Java-Reactive-Programming/Mono
-		</module>
+		<module>../Mono</module>
 	</modules>
 </project>
